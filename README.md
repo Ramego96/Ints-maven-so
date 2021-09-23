@@ -6,7 +6,7 @@
 
 #### 1 Actualización del sistema
 #### 2 Instalación de Maven 
-#### 3 Version de maven por preterminado
+#### 3 Versión de maven por preterminado
 #### 4 Versión concreta de Maven
 #### 5 Configuración de las variables de Entorno
 #### 6 Modificación del fichero profile
