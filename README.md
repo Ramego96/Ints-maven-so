@@ -38,6 +38,22 @@
 
 ![sudo ln](https://user-images.githubusercontent.com/78496018/134510900-dcab5005-792d-42d1-ac88-714786638dd3.png)
 
+## 5 Configuración de las variables de Entorno
 
+### Continué con el comando sudo nano /etc/profile.d/maven.sh y edité el código
 
+![sudo nano](https://user-images.githubusercontent.com/78496018/134519922-20aea88a-cf07-4153-899c-b08e034a0e46.png)
 
+### Finalmente guardé el archivo, hice el script para que sea ejecutable con chmod
+
+![sudo chmod](https://user-images.githubusercontent.com/78496018/134520152-cc67c585-8914-4d0c-a2de-4ee9596037a7.png)
+
+## 6 Modificación del fichero profile
+
+### Colocamos mvn -version
+
+![maven version](https://user-images.githubusercontent.com/78496018/134520501-bf6a223e-fe0d-4e66-96d9-9b4cd7e8c00f.png)
+
+## 7 Maven versión 3.8.2 Instalado
+
+### Ya estaría completado la versión 3.8.2 Apache Maven en mi SO.
